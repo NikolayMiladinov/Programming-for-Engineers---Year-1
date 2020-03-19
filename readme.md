@@ -65,7 +65,7 @@ T5 - Statement on communication method
 Work out how you and your partner are going to communicate,
 then move the `x` below to the appropriate selection:
 
-- [x] We don't a planned communications method 
+- [x] We don't have a planned communications method 
 - [ ] Working together in person
 - [ ] WhatsApp
 - [ ] WeChat
