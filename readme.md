@@ -32,7 +32,7 @@ where `LOGIN1` and `LOGIN2` are your Imperial logins, and
 `LOGIN1` is the login that is the smaller login by lexicographic
 ordering.
 
-T2 - Perform a merge commit
+T1 - Perform a merge commit
 ---------------------------
 
 Each team member should clone this repository (`ELEC40004/elec40004-2019-q4-portfolio-master`),
@@ -43,7 +43,7 @@ The commits should be made by two different users.
 Both commits should then be commited and pushed/merged by
 the two partners.
 
-T3 - Create a remote feature branch
+T2 - Create a remote feature branch
 -----------------------------------
 
 Each partner should create a file called `feature-LOGIN.txt`,
@@ -52,14 +52,14 @@ should be made by two different users. This should then be pushed
 by each user to a remote branch called `feature-LOGIN` in your shared
 repository.
 
-T4 - Merge features back into master
+T3 - Merge features back into master
 ------------------------------------
 
 The two feature branches should be merged back into
 master, and pushed to your shared repository. The
 feature branches should be left in place.
 
-T5 - Statement on communication method
+T4 - Statement on communication method
 --------------------------------------
 
 Work out how you and your partner are going to communicate,
@@ -84,7 +84,7 @@ particularly if your primary method is bandwidth intensive.
 Once you have moved the `x` to another check-box, one of you should
 commit and push. 
 
-T6 - Evidence of collaboration method
+T5 - Evidence of collaboration method
 -------------------------------------
 
 Create, commit, and push a file called `collaboration.*` which provides some
@@ -100,7 +100,7 @@ You can blur out or anonymise anything that is not relevant.
 
 Only one user needs to commit this.
 
-T7 - Submit a hash from master blackboard
+T6 - Submit a hash from master blackboard
 -----------------------------------------
 
 Take the current hash from master on github and submit it to blackboard.
