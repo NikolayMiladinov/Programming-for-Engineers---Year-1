@@ -1,4 +1,4 @@
-ELEC40004 Portfolio Q4
+ELEC40004 - Programming for Engineers
 ======================
 
 This portfolio has been adapted due to the missed time
